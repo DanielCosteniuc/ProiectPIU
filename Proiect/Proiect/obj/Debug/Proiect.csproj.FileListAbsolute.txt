@@ -1,0 +1,10 @@
+D:\PIU Teme\Proiect\Proiect\bin\Debug\Proiect.exe.config
+D:\PIU Teme\Proiect\Proiect\bin\Debug\Proiect.exe
+D:\PIU Teme\Proiect\Proiect\bin\Debug\Proiect.pdb
+D:\PIU Teme\Proiect\Proiect\obj\Debug\Proiect.csproj.AssemblyReference.cache
+D:\PIU Teme\Proiect\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+D:\PIU Teme\Proiect\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+D:\PIU Teme\Proiect\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+D:\PIU Teme\Proiect\Proiect\obj\Debug\Proiect.exe
+D:\PIU Teme\Proiect\Proiect\obj\Debug\Proiect.pdb
+D:\PIU Teme\Proiect\Proiect\obj\Debug\Proiect.Form1.resources
